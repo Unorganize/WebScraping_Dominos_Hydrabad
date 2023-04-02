@@ -36,8 +36,6 @@ with open("info.csv","w",encoding="utf8",newline="") as f:
 
 
 
-# In[ ]:
-
 
 
 
